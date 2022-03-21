@@ -40,7 +40,11 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 Découverte des servives https://zapier.com/ , https://ifttt.com/home ou encore https://www.make.com/en
 
-URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
+https://www.stevecummins.com/blog/journalists-can-benefit-using
+
+https://www.makeuseof.com/tag/best-ifttt-recipes-smart-home-automation/
+
+1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
 
 - https://changecolor-candle.glitch.me/vert
 - https://changecolor-candle.glitch.me/bleu
@@ -50,10 +54,16 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
 - https://changecolor-candle.glitch.me/flash
 - https://changecolor-candle.glitch.me/rainbow
 
+2/ l'URL de l'API Effeil Tower https://litght-lego-led.glitch.me/home
+
+https://litght-lego-led.glitch.me/api/light_on
+
+https://litght-lego-led.glitch.me/api/light_off
+
  ### Exercices demandés 
  
-- 5 zaps de A à Z 
-- 5 phrases sur le principe d'une recette IFTTT à partir de services non proposés par 
+- création de 5 zaps de A à Z ! 
+- écrire 5 phrases en français sur le principe d'une recette IFTTT à partir de services non proposés par ces différents services.
 
 
 # prochains cours 
