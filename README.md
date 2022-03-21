@@ -40,6 +40,8 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 Découverte des servives https://zapier.com/ , https://ifttt.com/home ou encore https://www.make.com/en
 
+exemples de recette dans diff domaines :
+
 https://www.stevecummins.com/blog/journalists-can-benefit-using
 
 https://www.makeuseof.com/tag/best-ifttt-recipes-smart-home-automation/
