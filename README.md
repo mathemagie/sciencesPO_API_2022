@@ -38,7 +38,7 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 ## cours 2
 
 
-Découverte des servives IFTTT https://ifttt.com/home et https://zapier.com/
+Découverte des servives https://zapier.com/ , https://ifttt.com/home ou encore https://www.make.com/en
 
 URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
 
@@ -51,9 +51,12 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
 - https://changecolor-candle.glitch.me/rainbow
 
  ### Exercices demandés 
- -  2/ lluminer la bougie connectée au passage de l'ISS 
- -  3/ lluminer la bougie connectée à partir d'une donnée disponible sur https://opendata.paris.fr/, 
+ 
+- 5 zaps de A à Z 
+- 5 phrases sur le principe d'une recette IFTTT à partir de services non proposés par 
 
+
+# prochains cours : token, consommation d'une une API data, logicielle, approfondissement du format JSON, TWitter API, etc 
   
  
  
