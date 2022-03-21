@@ -56,7 +56,9 @@ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-blueto
 - 5 phrases sur le principe d'une recette IFTTT à partir de services non proposés par 
 
 
-# prochains cours : token, consommation d'une une API data, logicielle, approfondissement du format JSON, TWitter API, etc 
+# prochains cours 
+
+token, consommation d'une une API data, logicielle, approfondissement du format JSON, TWitter API, etc 
   
  
  
