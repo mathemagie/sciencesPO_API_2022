@@ -7,11 +7,9 @@ def change_color(color):
   print "change color to " + color
   r = requests.get("https://changecolor-candle.glitch.me/" + color)
 
-
-
 url = 'http://api.openweathermap.org/data/2.5/weather?q=Paris&appid=96b99a4ac05013d0b00f353b6e48a988&units=metric'
-while 1: 
 
+while 1: 
   r = requests.get(url)
   dict_obj = json.loads(r.text)
   print dict_obj
