@@ -68,7 +68,7 @@ API (pour l'éteindre) https://litght-lego-led.glitch.me/api/light_off
 - Création de 5 zaps de A à Z (me fournir les copies d'écrans par email) ! 
 - Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de servives non proposés par cet outil en ligne ! 
 
-exemple : 
+Exemples : 
 
 - Illuminer la tour Eiffel au survol de Thomas Pesquet au dessus de la France.
 - Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
