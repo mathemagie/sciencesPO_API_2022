@@ -59,13 +59,13 @@ et les URls (API) afin de changer la couleur de la lampe
 
 2/ l'URL de l'API Effeil Tower https://litght-lego-led.glitch.me/home
 
-https://litght-lego-led.glitch.me/api/light_on
+URL (pour l'illuminer) https://litght-lego-led.glitch.me/api/light_on
 
-https://litght-lego-led.glitch.me/api/light_off
+API (pour l'éteindre) https://litght-lego-led.glitch.me/api/light_off
 
  ### Exercices demandés 
  
-- Création de 5 zaps de A à Z (me fournit les copies d'écrans par email) ! 
+- Création de 5 zaps de A à Z (me fournir les copies d'écrans par email) ! 
 - Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de servives non proposés par cet outil en ligne ! 
 
 exemple : 
