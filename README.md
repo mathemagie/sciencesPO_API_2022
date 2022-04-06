@@ -1,4 +1,4 @@
-## cours 1
+## Cours 1
 
 Les slides du premier cours : https://docs.google.com/presentation/d/1vMnQlz5kkXJXnZPPXM6KZL2T3_yM2zYY/edit#slide=id.g6b138fac16_0_0
 
@@ -37,16 +37,17 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
 
 ## cours 2
 
-
 Découverte des servives https://zapier.com/ , https://ifttt.com/home ou encore https://www.make.com/en
 
-exemples de recette dans diff domaines :
+Exemples de recettes IFTT, ZAPIER dans différents domaines :
 
 https://www.stevecummins.com/blog/journalists-can-benefit-using
 
 https://www.makeuseof.com/tag/best-ifttt-recipes-smart-home-automation/
 
 1/ URL afin de connecter la lampe connectée : https://googlecodelabs-candle-bluetooth.glitch.me/
+
+et les URls (API) afin de changer la couleur de la lampe
 
 - https://changecolor-candle.glitch.me/vert
 - https://changecolor-candle.glitch.me/bleu
@@ -64,63 +65,13 @@ https://litght-lego-led.glitch.me/api/light_off
 
  ### Exercices demandés 
  
-- création de 5 zaps de A à Z ! 
-- écrire 5 phrases en français sur le principe d'une recette IFTTT à partir de services non proposés par ces différents services.
+- Création de 5 zaps de A à Z (me fournit les copies d'écrans par email) ! 
+- Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de servives non proposés par cet outil en ligne ! 
 
+exemple : 
 
-# cours 3 
+- Illuminer la tour Eiffel au survol de Thomas Pesquet au dessus de la France.
+- Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
+- Faire remuer la queue de mon chat (connecté avec un arduino) 5 min avant que le bus arrive en bas de chez moi.
 
-développement d'une application de A à A faisant appel à plusieurs API : googleSheet, Deepl pour la traduction, https://apidocs.geoapify.com pour lre reverse geocoding
-
-
-A/ depuis une base de donnée hebergée sur googleSheet 
-
-https://sheety.co/
-
-B/ créer un projet avec repl.it
-
-https://replit.com/@mathemagie/sheet#main.py
-
-
-C/ https://apidocs.geoapify.com
-
-- création d'un compte, obtention d'un API key, les statistiques,le billing
-- les faire explorer la notion de bac à jeux proposé par le service https://apidocs.geoapify.com/playground/geocoding et mettre l'API key dans le playground
-
-- examiner le résultat de la réponse JSON avec un outil en ligne 
-
-exercices : jouer avec les paramètres dans le GET http : 
-
-https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
-
-
-avec le JSON : récupérer que le code pays à partir d'une liste de ligne lng, lat de
-
-https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
-
-ou encore récuprérer l'adresse exacte et non le code pays
-
-D/ envoie d'un sms vi Twillio
-
-E/ Deepl
-
-https://api-free.deepl.com/v2/translate
-
-
-F/ carto en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
-
-thématique abordée lor du cours 3.4 : 
-
-Obtention d'une API KEY, notion de Token, dashboard de consommation d'une API;, consommation d'une une API data, playground , consommation d'une API logicielle (reverse geo coding, sms, maps), approfondissement du format JSON,
-
-https://replit.com/@mathemagie/sheet#main.py
-
-https://replit.com/@mathemagie/tempcolor#main.py
-  
- 
- 
-
-
- 
- 
-  
+## cours 3
