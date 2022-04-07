@@ -66,7 +66,7 @@ API (pour l'éteindre) https://litght-lego-led.glitch.me/api/light_off
  ### Exercices demandés 
  
 - Création de 5 zaps de A à Z (me fournir les copies d'écrans par email) ! 
-- Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de servives non proposés par cet outil en ligne ! 
+- Ecrire 5 phrases en français sur le principe d'une recette IFTTT à partir de services non proposés par cet outil en ligne ! 
 
 Exemples : 
 
