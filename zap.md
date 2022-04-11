@@ -18,6 +18,12 @@
 	
 10/ FANTOU	Pauline	
 
+« Ouvrir ma fenetre quand il fait plus de 22° », 
+« Les feux tricolores du bus avant mon arret restent plus longtemps rouges si je n’ai pas passé le pas de ma porte », 
+« Mon aspirateur se déclenche quand mon chat a fait plus de 200 allers retours dans le salon », 
+« Mes plaques de cuisson s’éteignent automatiquement lorsque la cuisson de mon produit est terminée » >> frigo connecté qui analyse les emballages de plats
+« Ma voiture se ferme automatiquement si je m’éloigne plus de 10min »
+
 11/ FERREIRA PIEDADE	Thamara	
 
 12/ HACHANA	Yesmine	
