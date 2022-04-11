@@ -118,3 +118,13 @@ quelqu’un déclare à proximité “Yes sir !”.
 5 - une enceinte spéciale salle-de-bain, qui augmente le volume lorsque le robinet d’eau est ouvert, pour compenser le volume sonore de l’eau, et baisse le volume lorsque le robinet est fermé. 
 
 22/ VAN	Lucie	
+
+* Lorsqu’une personne commence à s’énerver, une bouillote fait chauffer de l’eau pour un thé
+
+• À chaque fois qu’une péniche passe sous le pont Marie, deux personnages Lego s’embrassent
+
+• Après chaque bonne nouvelle, un individu sonne une cloche chez lui, cette cloche connectée se met à sonner chez d’autres personnes
+
+• Lorsque son/sa compagnon/compagne sort de l’appartement, un sms est envoyé pour lui souhaiter la bonne journée
+
+• À chaque fois que l’on coche une case de notre to do list, un bras robot nous high-five 
