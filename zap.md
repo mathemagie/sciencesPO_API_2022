@@ -40,4 +40,14 @@
 
 21 / VAGNON	Fanny	
 
+1 - les lumières d’une pièce changent de couleur selon la couleur des vêtements des personnes qui rentrent dans la salle
+
+2 - De nuit, les arrêts de bus émettent une lumière visible pour le conducteur au moment où il arrive si une personne attend. 
+
+3 - Lorsque vous êtes dans le bus ou le métro, l’application ratp vous envoie une notification selon votre localisation, pour vous rappeler de descendre au bon arrêt.  
+
+4 - votre frigo vous envoie un sms quand un produit est dedans depuis trop longtemps, et qu’il faudrait mieux le consommer rapidement
+
+5 - une enceinte spéciale salle-de-bain, qui augmente le volume lorsque le robinet d’eau est ouvert, pour compenser le volume sonore de l’eau, et baisse le volume lorsque le robinet est fermé. 
+
 22/ VAN	Lucie	
