@@ -8,6 +8,17 @@
 
 5/ BEVILACQUA	Alicia	
 
+Lorsque je ferme la porte de chez moi, toutes les lumières s’éteignent (grâce à un capteur posé  sur ma porte).  
+
+Déclencher automatiquement la climatisation ou le chauffage dans une pièce afin de la  maintenir à une température prédéfinie.  
+
+Lorsque mon artiste préféré sort une nouvelle musique, un bouton lumineux s’allume sur mon  bureau et lorsque j’appuie dessus mon enceinte joue le morceau.  
+
+Pour les Jeux Olympiques, déclencher un mini feux d’artifice en haut de la Tour Eiffel à chaque  fois que la France gagne une médaille d’or.  
+
+Au sein de bureaux d’une entreprise, à chaque fois qu’un employé clique sur un bouton « pause café » sur son ordinateur, la machine à café dans la salle de pause fait automatiquement un café.  Le bouton peut être configuré en fonction des préférences de l’employés (capuccino, café au  lait,…) si la machine le permet. 
+
+
 6/ COLOMBIÉ	Sarah	
 
 7/ COURRÈGES	Maxime	
