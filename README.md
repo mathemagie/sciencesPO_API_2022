@@ -124,7 +124,7 @@ Exercice demandés : fouiller la documentation de Twillio afin de dénicher le b
 
 G/ utilisation de cette API pour la detection du sentiment du commentaire : https://beta.openai.com/examples/default-tweet-classifier
 
-prendre le temps de regarder le 'pricing' de ce service : https://openai.com/api/pricing/
+prendre le temps de regarder le 'pricing' de ce service : https://openai.com/api/pricing/ ainsi que le https://beta.openai.com/playground/
 
 H/ Cartographie des réponses contenues dans le fichier Excel en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
 
