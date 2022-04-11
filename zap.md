@@ -2,12 +2,16 @@
 
 2/ ANDRIANTSEHENOTiana Valériane	
 
-== BENYAZZA	Inès ==
+## BENYAZZA Inès ##
 
 dès que mon artiste préféré sort un nouveau son sur SPOTIFY, on reçoit un mail sur GMAIL et/ou il est directement intégré et téléchargé à notre playlist
+
 S’informer des prochains matchs de foot de notre équipe favorite via GOOGLE News et ajouter à notre calendrier Google Agenda la date /heure de la rencontre directement 
+
 Dès que j’ai une réunion inscrite sur mon Google Agenda et que quelqu’un m’appelle, le notifier automatiquement par SMS : « je suis en réunion » si j'active le ZAP 
+
 Lorsqu’une action de bourse que j’ai choisis dans ma liste sur Google Finance fait >-5% ou >+5% je reçois une notification par Mail 
+
 Créer une API sur jobteaser, dès que figure sur une offre « M&A » et « Paris » alors mon CV est directement envoyé au recruteur 
 
 4/ BERBERIAN	Kévin	
