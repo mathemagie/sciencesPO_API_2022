@@ -106,11 +106,11 @@ C/ utilisation de l'API reverse geocogind : https://apidocs.geoapify.com
 
 Exercices demandés : 
 
-1/ modifier avec les paramètres dans le GET http (clef API, lang, format, etc : 
+1/ modifier avec les paramètres dans le GET http (clef API, lang, format, etc ): 
 
 https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
 
-2/ dans le code source du prohgramme en python, pour chaque association lon, lat, récuprération de l'adresse postal exacte ou encode du code pays ou de la ville
+2/ Dans le code source du programme en python, pour chaque association lon, lat, récuprération de l'adresse postal exacte ou encode du code pays ou de la ville
 
 E/ utilisation de l'API du servive en ligne  Deepl pour la traduction du champ commentaire dans la base de données : 
 
@@ -118,10 +118,16 @@ https://api-free.deepl.com/v2/translate
 
 Exercice demandé : changer la langue de traduction 
 
+F/ envoie d'un SMS via Twillio
 
-F/ carto en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
+Exercice demandés : fouiller la documentation de Twillio afin de dénicher le bon code en python à utiliser !
+
+
+G/ Cartographie des réponses contenues dans le fichier Excel en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
+
 
 Thématiques abordées lors du cours 3.4,5 : 
 
-Obtention d'une API KEY, notion de Token , dashboard de consommation d'une API, Consommation d'une une API data (feuille excel), playground d'une API (tester une API en ligne le plus rapidement possiblbe sans avoir à télécharger quoi que ce soit) , consommation d'une API logicielle (reverse geo coding, sms, cartographie), approfondissement du format JSON, notion d'API en écrtiure  
- 
+Obtention d'une API KEY, notion de Token , dashboard de consommation d'une API, Consommation d'une une API data (feuille excel), playground d'une API (tester une API en ligne le plus rapidement possiblbe sans avoir à télécharger quoi que ce soit) , consommation d'une API logicielle (reverse geo coding, sms, cartographie), approfondissement du format JSON, notion d'API en écrtiure, etc 
+
+## cours 6
