@@ -33,6 +33,16 @@ Au sein de bureaux d’une entreprise, à chaque fois qu’un employé clique su
 
 ## COLOMBIÉ	Sarah ##
 
+Arrivée imminente d'un livreur ubereats = Rick Roll sur enceintes connectées
+
+Passage d'une personne devant la Joconde du Louvre =.+1 sur un compteur accessible depuis la page d'accueil du site officiel du musée 
+
+Suppression d'un cours depuis Google Calendar Sciences Po = appel sur téléphone avec cette sonnerie
+
+Passage devant une fontaine à eau de Fitness Park avec battement de coeur supérieur à 70/min = eau automatiquement versée dans un gobelet
+
+A chaque paiement en carte bancaire dépassant un montant fixé = notification d'une application bancaire avec ce meme
+
 ## COURRÈGES	Maxime	##
 
 ## CROSETTI	Jean ##
