@@ -90,12 +90,16 @@ Si j’ouvre la fenêtre de mon appartement alors que mon chauffage est allumé,
 
 ● Le flash du téléphone s’allume automatiquement quand la musique “I’m still loving
 you” de Scorpio est entendue à proximité.
+
 ● Une lumière d’une lampe connectée passe en rouge quand la température de
 l’appartement dépasse un certain seuil préalablement fixé.
+
 ● Quand une patrouille de police est dépassée en voiture, automatiquement faire un
 appel de phares 50 mètres plus loin pour les automobilistes s’apprêtant à les croiser.
+
 ● La télé s’allume et lance automatiquement le film Les tontons flingueurs quand
 quelqu’un déclare à proximité “Yes sir !”.
+
 ● Quand quelqu’un éteint une lumière dans l’appartement, l’enceinte sonore déclare
 “Nuit” (l’inverse serait également applicable avec “Jour”).
 
