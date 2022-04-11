@@ -14,6 +14,8 @@ Lorsqu’une action de bourse que j’ai choisis dans ma liste sur Google Financ
 
 Créer une API sur jobteaser, dès que figure sur une offre « M&A » et « Paris » alors mon CV est directement envoyé au recruteur 
 
+ZAPS : OK 
+
 ## BERBERIAN	Kévin ##
 
 ## BEVILACQUA	Alicia	##
