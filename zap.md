@@ -1,6 +1,6 @@
-1 / ADOUL	Yanis	
+## ADOUL Yanis ##
 
-2/ ANDRIANTSEHENOTiana Valériane	
+## ANDRIANTSEHENOTiana Valériane ##
 
 ## BENYAZZA Inès ##
 
@@ -14,9 +14,9 @@ Lorsqu’une action de bourse que j’ai choisis dans ma liste sur Google Financ
 
 Créer une API sur jobteaser, dès que figure sur une offre « M&A » et « Paris » alors mon CV est directement envoyé au recruteur 
 
-4/ BERBERIAN	Kévin	
+## BERBERIAN	Kévin ##
 
-5/ BEVILACQUA	Alicia	
+## BEVILACQUA	Alicia	##
 
 Lorsque je ferme la porte de chez moi, toutes les lumières s’éteignent (grâce à un capteur posé  sur ma porte).  
 
@@ -29,15 +29,15 @@ Pour les Jeux Olympiques, déclencher un mini feux d’artifice en haut de la To
 Au sein de bureaux d’une entreprise, à chaque fois qu’un employé clique sur un bouton « pause café » sur son ordinateur, la machine à café dans la salle de pause fait automatiquement un café.  Le bouton peut être configuré en fonction des préférences de l’employés (capuccino, café au  lait,…) si la machine le permet. 
 
 
-6/ COLOMBIÉ	Sarah	
+## COLOMBIÉ	Sarah ##
 
-7/ COURRÈGES	Maxime	
+## COURRÈGES	Maxime	##
 
-8/ CROSETTI	Jean	
+## CROSETTI	Jean ##
 
-9/ DELEVOYE	Clélia	
+## DELEVOYE	Clélia	##
 	
-10/ FANTOU	Pauline	
+## FANTOU Pauline	##
 
 « Ouvrir ma fenetre quand il fait plus de 22° », 
 « Les feux tricolores du bus avant mon arret restent plus longtemps rouges si je n’ai pas passé le pas de ma porte », 
