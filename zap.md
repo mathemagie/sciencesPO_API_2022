@@ -45,9 +45,9 @@ Au sein de bureaux d’une entreprise, à chaque fois qu’un employé clique su
 « Mes plaques de cuisson s’éteignent automatiquement lorsque la cuisson de mon produit est terminée » >> frigo connecté qui analyse les emballages de plats
 « Ma voiture se ferme automatiquement si je m’éloigne plus de 10min »
 
-11/ FERREIRA PIEDADE	Thamara	
+## FERREIRA PIEDADE	Thamara	##
 
-12/ HACHANA	Yesmine	
+## HACHANA	Yesmine	##
 
 1. Si je fume une cigarette, alors 52 centimes sont transférés sur mon compte épargne ;
 2. Si je fais une crise d’anxiété, alors un Xanax est dispensé par un distributeur de  médicaments automatique ; 
@@ -56,7 +56,7 @@ Au sein de bureaux d’une entreprise, à chaque fois qu’un employé clique su
 5. Si il est 7h45 un lundi, mardi, mercredi, jeudi ou vendredi, un matcha latte au lait  d’avoine est commandé chez Wild and the Moon via deliveroo pour être livré chez  moi.
 
 
-13/ HERIOT	Marine	
+## HERIOT	Marine	##
 
 Pour chaque photos prises, grâce à la géolocalisation de cette photo et la reconnaissance du lieu, l’application Tripadvisor va venir vous conseiller les meilleurs restaurants les plus proches. L’application est dons reliées aux données fournies par la géolocalisation de votre appareil.
 
@@ -70,11 +70,11 @@ Utiliser les données des nombreuses caméras de Londres prêt de la Tamise pour
 Utiliser les données GPS de la voiture pour que quand celle-ci et son propriétaire rentrent dans le garage de la maison le four se mette en marche ou les lumières s’allument afin d’accueillir le propriétaire. 
 
 
-14/KAMAKY	Xavier	
+## KAMAKY	Xavier	##
 
-15/ LECHEVALIER	Fabien	
+## LECHEVALIER	Fabien	##
 
-16/ LIENARD	Arthur	
+## LIENARD	Arthur	##
 
 Une API qui fonctionne de sorte que lorsque je sors la dernière bière de mon réfrigérateur, il commande plus du même type de bière à mon adresse, nécessitant une simple confirmation SMS
 
@@ -86,7 +86,7 @@ Une API qui fonctionne pour que je puisse vérifier la température d’une bois
 
 Une garde-robe qui distribue une casquette et des lunettes de soleil si le temps va être chaud et ensoleillé, ou un parapluie si le temps sera de la pluie 
 
-17 / LITZLER-ITALIA	Marie	
+## LITZLER-ITALIA	Marie	##
 
 Si mon réveil sonne 3 fois, mon lit se renverse.
 Si ma colocataire chante sous la douche, l’eau chaude est instantanément coupée.
@@ -94,9 +94,9 @@ Si je tape dans mes mains chez moi, la lampe de mon salon change de couleur.
 Si mon compte bancaire passe à découvert, mon téléphone diffuse une musique de guerre.
 Si j’ouvre la fenêtre de mon appartement alors que mon chauffage est allumé, ma radio diffuse un discours de Jannick Jadot.
 
-18/ MAYER	Paul	
+## MAYER	Paul ##
 	
-19 / MILANI	Lisa	
+## MILANI	Lisa ##
 
 ● Le flash du téléphone s’allume automatiquement quand la musique “I’m still loving
 you” de Scorpio est entendue à proximité.
@@ -113,9 +113,9 @@ quelqu’un déclare à proximité “Yes sir !”.
 ● Quand quelqu’un éteint une lumière dans l’appartement, l’enceinte sonore déclare
 “Nuit” (l’inverse serait également applicable avec “Jour”).
 
-20/ MONTESQUIEU	Killian	
+## MONTESQUIEU	Killian	##
 
-21 / VAGNON	Fanny	
+## VAGNON	Fanny	##
 
 1 - les lumières d’une pièce changent de couleur selon la couleur des vêtements des personnes qui rentrent dans la salle
 
@@ -127,7 +127,7 @@ quelqu’un déclare à proximité “Yes sir !”.
 
 5 - une enceinte spéciale salle-de-bain, qui augmente le volume lorsque le robinet d’eau est ouvert, pour compenser le volume sonore de l’eau, et baisse le volume lorsque le robinet est fermé. 
 
-22/ VAN	Lucie	
+## VAN	Lucie ##
 
 * Lorsqu’une personne commence à s’énerver, une bouillote fait chauffer de l’eau pour un thé
 
