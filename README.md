@@ -122,9 +122,9 @@ F/ envoie d'un SMS via Twillio
 
 Exercice demandés : fouiller la documentation de Twillio afin de dénicher le bon code en python à utiliser !
 
+G/ utilisation de cette API pour la detection du sentiment du commentaire : https://beta.openai.com/examples/default-tweet-classifier
 
-G/ Cartographie des réponses contenues dans le fichier Excel en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
-
+H/ Cartographie des réponses contenues dans le fichier Excel en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
 
 Thématiques abordées lors du cours 3.4,5 : 
 
