@@ -24,30 +24,20 @@
 
 13/ HERIOT	Marine	
 
-14/ KAMAKY	Xavier	
- Présent  Absent  En retard
-15	
-LECHEVALIER	Fabien	
- Présent  Absent  En retard
-16	
-LIENARD	Arthur	
- Présent  Absent  En retard
-17	
-LITZLER-ITALIA	Marie	
- Présent  Absent  En retard
-18	
-Avertissement	MAYER	Paul	
-1
- Présent  Absent  En retard
-19	
-MILANI	Lisa	
- Présent  Absent  En retard
-20	
-Avertissement	MONTESQUIEU	Killian	
-1
- Présent  Absent  En retard
-21	
-VAGNON	Fanny	
- Présent  Absent  En retard
-22	
-VAN	Lucie	
+14/KAMAKY	Xavier	
+
+15/ LECHEVALIER	Fabien	
+
+16/ LIENARD	Arthur	
+
+17 / LITZLER-ITALIA	Marie	
+
+18/ MAYER	Paul	
+	
+19 / MILANI	Lisa	
+
+20/ MONTESQUIEU	Killian	
+
+21 / VAGNON	Fanny	
+
+22/ VAN	Lucie	
