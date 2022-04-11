@@ -74,4 +74,54 @@ Exemples :
 - Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
 - Faire remuer la queue de mon chat (connecté avec un arduino) 5 min avant que le bus arrive en bas de chez moi.
 
-## cours 3
+## cours 3, cours 4 , cours 5 
+
+Développement d'une application de A à A faisant appel à plusieurs API : googleSheet pour la base de données (contenu exposé via une API en utilisant le service https://sheety.co/, l'API Deepl pour la traduction d'un texte , https://apidocs.geoapify.com pour le reverse geocoding d'une longitude, latitude, etc 
+
+A/ créer une feuille excel dans googleSpreadSheet : https://docs.google.com/spreadsheets/d/1PpfKm4uMSEb2TP6I5fKgo7vOnZUq8r5Pk46r7PmULFU/edit?usp=sharing
+
+B/ Exposer cette base de données par l'intermédiaire d'une API via cet outil https://sheety.co/ (besoin de se connecter avec le compyte google associé à la feuille excel)
+
+B/ Créer un projet en python23.9 avec le service en ligne : https://replit.com/~
+
+https://replit.com/@mathemagie/ExposeSheetAPI
+
+Exercices demandés : 
+
+1/ créer une autre feuille excel et modifier le code python existant afin de récupérer la nouvelle feuille excel
+
+2/ récuprération d'autres données du fichier JSON à part la longitude, latitude
+
+3/ jouer avec les URLs du service https://sheety.co/  et récupération d'une des entrées du fichier excel et les filtres ! 
+
+4/ création d'une donnée dans le fichier Excel via appel de l'API en post et mise à jour d'une entrée 
+
+
+C/ utilisation de l'API reverse geocogind : https://apidocs.geoapify.com
+
+- création d'un compte, obtention d'un API key, les statistiques, le billing de cette API 
+
+- Exploration la notion de bac à jeux proposé par le service https://apidocs.geoapify.com/playground/geocoding et mettre l'API key dans le playground
+
+
+Exercices demandés : 
+
+1/ modifier avec les paramètres dans le GET http (clef API, lang, format, etc : 
+
+https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
+
+2/ dans le code source du prohgramme en python, pour chaque association lon, lat, récuprération de l'adresse postal exacte ou encode du code pays ou de la ville
+
+E/ utilisation de l'API du servive en ligne  Deepl pour la traduction du champ commentaire dans la base de données : 
+
+https://api-free.deepl.com/v2/translate
+
+Exercice demandé : changer la langue de traduction 
+
+
+F/ carto en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
+
+Thématiques abordées lors du cours 3.4,5 : 
+
+Obtention d'une API KEY, notion de Token , dashboard de consommation d'une API, Consommation d'une une API data (feuille excel), playground d'une API (tester une API en ligne le plus rapidement possiblbe sans avoir à télécharger quoi que ce soit) , consommation d'une API logicielle (reverse geo coding, sms, cartographie), approfondissement du format JSON, notion d'API en écrtiure  
+ 
