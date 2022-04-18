@@ -1,6 +1,27 @@
 ## ADOUL Yanis ##
 
-## ANDRIANTSEHENOTiana Valériane ##
+Dès que j’ai terminé mon thé, la bouilloire se met automatiquement à chauffer de l’eau
+
+Dès que ma caméra présente dans ma cuisine détecte un départ de feu, elle m’envoie un message, contacte les voisins et les pompiers automatiquement
+
+Au réveil, dans la semaine, si j’éteins mon réveil alors que je dois me lever, alors les lumières et les enceintes s’allument
+
+Lorsque j’ai terminé une tâche, un petit robot de bureau se met à bouger 
+
+Lorsque un vélo Lime est disponible près de chez moi entre 8h et 10h, je reçois un SMS
+
+## ANDRIANTSEHENO Tiana Valériane ##
+
+Selon la météo , ma playlist spotify joue des playlist que j’ai prédéfini selon le temps qu’il fait 
+
+A chaque fois que des deadlines tournent au rouge dans mon gestionnaire de planification un alarme avec l'intitulé du deadline se déclenche sur mon téléphone 
+
+Chaque fois que je me lève de mauvaise humeur en disant des mots ( Putain ou c'est chiant ) , ma podcast de motivation préféré se met en play sur mon téléphone 
+
+A chaque fois que je dépasse mon budget restaurant hebdomadaire dans mon compte/mon petit gestionnaire de budget, mon maps ne marche plus si 
+
+j'essaie encore de localiser des restaurants dans la même semaine  
+Quand ma boîte de thé est presque vide  , le mot " thé" s'ajoute directement dans ma liste de course pour la semaine 
 
 ## BENYAZZA Inès ##
 
@@ -14,9 +35,18 @@ Lorsqu’une action de bourse que j’ai choisis dans ma liste sur Google Financ
 
 Créer une API sur jobteaser, dès que figure sur une offre « M&A » et « Paris » alors mon CV est directement envoyé au recruteur 
 
-ZAPS : OK 
 
-## BERBERIAN	Kévin ##
+## BERBERIAN Kévin ##
+
+- Recevoir un sms dès qu' il y'a une offre de stage avec le mot "bras droit de CEO" dans l'annonce d'un post Linkedin.
+
+- Recevoir un sms quand je quitte mon appartement mais que les clés sont restées dans l'appartement.
+
+- Un tiroir à chaussures qui s'ouvre afin de me donner les chaussures adaptées à la météo (température et pluie).
+
+- Quand on rate son train, recevoir un message avec l'alternative de transport la plus rapide et la moins chère entre train, covoiturage et avion.
+
+- Envoyer des sms personnalisés d'anniversaire avec les dates extraites de Facebook.
 
 ## BEVILACQUA	Alicia	##
 
