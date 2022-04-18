@@ -167,6 +167,16 @@ quelqu’un déclare à proximité “Yes sir !”.
 
 ## MONTESQUIEU	Killian	##
 
+ Si mon téléphone se connecte au wifi de chez moi, allumer la lumière connectée de mon appartement
+
+- Désactiver toutes les trottinettes électriques des principaux fournisseurs à partir du 100eme accident enregistré. 
+
+- Faire vibrer mon téléphone portable quand Emmanuel Macron quitte l'Elysée 
+
+- Envoyer un message à ma mère à chaque fois que je réserve un billet d'avion pour Nice
+
+- Démarrer les fontaines de Versailles une fois une certain nombre de visiteurs atteint sur les caméras de surveillance.
+
 ## VAGNON	Fanny	##
 
 1 - les lumières d’une pièce changent de couleur selon la couleur des vêtements des personnes qui rentrent dans la salle
