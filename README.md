@@ -35,11 +35,11 @@ Everything is going to get smarter. Your phone, your calendar, your watch, your 
   - https://www.journaldunet.com/solutions/cloud-computing/1181302-twilio-la-start-up-qui-motorise-les-services-de-communication-de-facebook-ou-uber/
 
 
-## cours 2
+## Cours 2
 
 Découverte des servives https://zapier.com/ , https://ifttt.com/home ou encore https://www.make.com/en
 
-Exemples de recettes IFTT, ZAPIER dans différents domaines :
+Exemples de recettes IFTTT, ZAPIER dans différents domaines :
 
 https://www.stevecummins.com/blog/journalists-can-benefit-using
 
@@ -74,7 +74,7 @@ Exemples :
 - Si la qualité de l'air réglementaire n'est pas respectée à Toulouse, toutes les voitures en train de rouler au centre de Toulouse s'arrêtent.
 - Faire remuer la queue de mon chat (connecté avec un arduino) 5 min avant que le bus arrive en bas de chez moi.
 
-## cours 3, cours 4 , cours 5 
+## Cours 3, 4 , 5 (Explorations techniques des APIs) 
 
 Développement d'une application de A à A faisant appel à plusieurs API : googleSheet pour la base de données (contenu exposé via une API en utilisant le service https://sheety.co/, l'API Deepl pour la traduction d'un texte , https://apidocs.geoapify.com pour le reverse geocoding d'une longitude, latitude, etc 
 
@@ -115,9 +115,11 @@ C/ Utilisation de l'API reverse-geocoding : https://apidocs.geoapify.com
 
 Exercices demandés : 
 
-1/ Modifier avec les paramètres dans le GET http (clef API, lang, format, etc ): 
+1/ Modifier avec les paramètres de l'URL de l'appel à une API (clef API, lang, format, etc ): 
 
 https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
+
+que se passe-t-il lorsque l'apiKey in invalide par exemple ? ou encore une latitude, longitude erronées ? 
 
 2/ Dans le code source du programme en python, pour chaque association lon, lat, récupération de l'adresse postale exacte ou encore le code pays ou de la ville, et mise à jour des deux colonnes correspondantes dans le fichier excel.
 
@@ -127,15 +129,16 @@ https://api-free.deepl.com/v2/translate
 
 Exercice demandé : changer la langue de traduction 
 
-F/ envoie d'un SMS via Twillio
+F/ Envoie d'un SMS via Twillio
 
-Exercice demandés : fouiller la documentation de Twillio afin de dénicher le bon code en python à utiliser !
+Exercice demandé : fouiller la documentation de Twillio afin de dénicher le bon code en python à utiliser !
 
-G/ utilisation de cette API pour la detection du sentiment du commentaire : https://beta.openai.com/examples/default-tweet-classifier
+G/ Utilisation de API OPENAI pour la detection du sentiment du commentaire : https://beta.openai.com/examples/default-tweet-classifier
 
 Prendre le temps de regarder le 'pricing' de ce service : https://openai.com/api/pricing/ ainsi que le https://beta.openai.com/playground/
 
 H/ Cartographie des réponses contenues dans le fichier Excel en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
+
 
 Thématiques abordées lors du cours 3.4,5 : 
 
