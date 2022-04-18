@@ -107,21 +107,21 @@ ou encore récupération de l'ensemble de réponses dont la valeur sendSms est �
 éléments de réponses dans cet article en ligne : https://funkytwig.com/2021/11/18/beginer-guide-sheety-python-api-update-goodle-sheets/
 
 
-C/ utilisation de l'API reverse geocogind : https://apidocs.geoapify.com
+C/ Utilisation de l'API reverse-geocoding : https://apidocs.geoapify.com
 
 - Création d'un compte, obtention d'un API key, regarder les statistiques, en savoir plus sur le billing de cette API.
 
-- Exploration la notion de bac à jeux proposé par le service https://apidocs.geoapify.com/playground/geocoding et mettre l'API key dans le playground.
+- Exploration la notion de bac à sable proposé par le service https://apidocs.geoapify.com/playground/geocoding et mettre l'API key dans le playground.
 
 Exercices demandés : 
 
-1/ modifier avec les paramètres dans le GET http (clef API, lang, format, etc ): 
+1/ Modifier avec les paramètres dans le GET http (clef API, lang, format, etc ): 
 
 https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
 
-2/ Dans le code source du programme en python, pour chaque association lon, lat, récupération de l'adresse postale exacte ou encore le code pays ou de la ville, et mise à jour des deux collonnes correspondantes dans le fichier excel.
+2/ Dans le code source du programme en python, pour chaque association lon, lat, récupération de l'adresse postale exacte ou encore le code pays ou de la ville, et mise à jour des deux colonnes correspondantes dans le fichier excel.
 
-E/ utilisation de l'API du servive en ligne  Deepl pour la traduction du champ commentaire dans la base de données : 
+E/ utilisation de l'API du service en ligne Deepl pour la traduction du champ commentaire dans la base de données : 
 
 https://api-free.deepl.com/v2/translate
 
@@ -133,12 +133,12 @@ Exercice demandés : fouiller la documentation de Twillio afin de dénicher le b
 
 G/ utilisation de cette API pour la detection du sentiment du commentaire : https://beta.openai.com/examples/default-tweet-classifier
 
-prendre le temps de regarder le 'pricing' de ce service : https://openai.com/api/pricing/ ainsi que le https://beta.openai.com/playground/
+Prendre le temps de regarder le 'pricing' de ce service : https://openai.com/api/pricing/ ainsi que le https://beta.openai.com/playground/
 
 H/ Cartographie des réponses contenues dans le fichier Excel en utilisant https://apidocs.geoapify.com/samples/maps/js-mapbox/ 
 
 Thématiques abordées lors du cours 3.4,5 : 
 
-Obtention d'une API KEY, notion de Token , dashboard de consommation d'une API, Consommation d'une une API data (feuille excel), playground d'une API (tester une API en ligne le plus rapidement possiblbe sans avoir à télécharger quoi que ce soit) , consommation d'une API logicielle (reverse geo coding, sms, cartographie), approfondissement du format JSON, notion d'API en écrtiure, etc 
+Obtention d'une API KEY, notion de Token, dashboard de consommation d'une API, consommation d'une une API data (feuille excel), playground d'une API (tester une API en ligne le plus rapidement possible sans avoir à télécharger quoi que ce soit) , consommation d'une API logicielle (reverse geo coding, sms, cartographie), d'une API cognitive, approfondissement du format JSON, notion d'API en écrtiure, etc 
 
 ## cours 6
