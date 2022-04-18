@@ -137,6 +137,16 @@ Si mon compte bancaire passe à découvert, mon téléphone diffuse une musique 
 Si j’ouvre la fenêtre de mon appartement alors que mon chauffage est allumé, ma radio diffuse un discours de Jannick Jadot.
 
 ## MAYER	Paul ##
+
+Tous les matins au lever Siri nous dit combien de couches porter en fonction de la température de la journée.
+
+Augmenter le thermostat de la maison dès que le Python de la Fournaise entre en éruption.
+
+Mise en veille forcée de son téléphone dès qu'un TGV part en retard de Marseille Saint Charles.
+
+Notre aspirateur Roomba s'arrête lorsqu'il y a une grêve des éboueurs.
+
+Augmentation du débit du pommeau de douche dès que la Seine entre en crue.
 	
 ## MILANI	Lisa ##
 
