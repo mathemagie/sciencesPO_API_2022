@@ -80,29 +80,38 @@ Développement d'une application de A à A faisant appel à plusieurs API : goog
 
 A/ créer une feuille excel dans googleSpreadSheet : https://docs.google.com/spreadsheets/d/1PpfKm4uMSEb2TP6I5fKgo7vOnZUq8r5Pk46r7PmULFU/edit?usp=sharing
 
-B/ Exposer cette base de données par l'intermédiaire d'une API via cet outil https://sheety.co/ (besoin de se connecter avec le compyte google associé à la feuille excel)
+B/ Exposer cette base de données par l'intermédiaire d'une API via cet outil https://sheety.co/ (besoin de se connecter avec le compte google associé à la feuille excel)
 
-B/ Créer un projet en python23.9 avec le service en ligne : https://replit.com/~
+B/ Créer un projet en python3.9 avec le service en ligne : https://replit.com/~
 
-https://replit.com/@mathemagie/ExposeSheetAPI
+https://replit.com/@AurlienFache/ExposeSheetAPI
 
 Exercices demandés : 
 
-1/ créer une autre feuille excel et modifier le code python existant afin de récupérer la nouvelle feuille excel
+1/ Créer une autre feuille excel et modifier le code python existant afin de récupérer la nouvelle feuille excel
 
-2/ récuprération d'autres données du fichier JSON à part la longitude, latitude
+2/ Récupération d'autres données du fichier JSON à part la longitude, latitude
 
-3/ jouer avec les URLs du service https://sheety.co/  et récupération d'une des entrées du fichier excel et les filtres ! 
+3/ jouer avec les URLs du service https://sheety.co/ et récupération d'une des entrées du fichier excel et les filtres ! 
 
-4/ création d'une donnée dans le fichier Excel via appel de l'API en post et mise à jour d'une entrée 
+regarder dans la documentation du service : https://sheety.co/docs/requests
+
+récupération de la deuxième ligne de la feuille Excel : https://api.sheety.co/917a493d299bb9a04c196c7cf0393353/apiSciencesPo/responses/3
+
+ou encore récupération de l'ensemble de réponses dont la valeur sendSms est égal à 1 : 
+
+"https://api.sheety.co/917a493d299bb9a04c196c7cf0393353/apiSciencesPo/responses/?filter[sendSms]=1
+
+4/ création d'une donnée dans le fichier Excel via appel de l'API en post et mise à jour d'une entrée existante : 
+
+éléments de réponses dans cet article en ligne : https://funkytwig.com/2021/11/18/beginer-guide-sheety-python-api-update-goodle-sheets/
 
 
 C/ utilisation de l'API reverse geocogind : https://apidocs.geoapify.com
 
-- création d'un compte, obtention d'un API key, les statistiques, le billing de cette API 
+- Création d'un compte, obtention d'un API key, regarder les statistiques, en savoir plus sur le billing de cette API.
 
-- Exploration la notion de bac à jeux proposé par le service https://apidocs.geoapify.com/playground/geocoding et mettre l'API key dans le playground
-
+- Exploration la notion de bac à jeux proposé par le service https://apidocs.geoapify.com/playground/geocoding et mettre l'API key dans le playground.
 
 Exercices demandés : 
 
@@ -110,7 +119,7 @@ Exercices demandés :
 
 https://api.geoapify.com/v1/geocode/reverse?lat=48.8734703&lon=2.3580603&format=json&apiKey=d90b1a594bb84aebab6bfac77b29ccf0&lang=fr
 
-2/ Dans le code source du programme en python, pour chaque association lon, lat, récuprération de l'adresse postal exacte ou encode du code pays ou de la ville
+2/ Dans le code source du programme en python, pour chaque association lon, lat, récupération de l'adresse postale exacte ou encore le code pays ou de la ville, et mise à jour des deux collonnes correspondantes dans le fichier excel.
 
 E/ utilisation de l'API du servive en ligne  Deepl pour la traduction du champ commentaire dans la base de données : 
 
